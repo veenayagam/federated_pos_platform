@@ -1,0 +1,7 @@
+streamlit
+polars
+torch
+opacus
+flwr[simulation]
+matplotlib
+numpy
